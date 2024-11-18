@@ -1,4 +1,8 @@
-## Hi there 👋
+## Cristina Assuncao
+
+Enthusiastic computer science researcher with a career in the arts.
+
+I am currently enrolled in HarvardX's Data Science Professional Certificate.
 
 <!--
 **Cristina-Assuncao/Cristina-Assuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
