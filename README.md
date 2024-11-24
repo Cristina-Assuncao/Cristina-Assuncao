@@ -3,9 +3,6 @@
 Enthusiastic aspiring Computer Scientist with a background in art.
 
 Since discovering my passion for coding when I self-taught how to design a website to showcase my artwork, I have been upskilling with eagerness, fascination, and curiosity. My interest in the field started during lockdown, and I have since acquired fundamental skills in back-end, data analysis, and machine learning. I graduated from the highly competitive Skills Bootcamp delivered by HyperionDev in partnership with Imperial College London in 2023 and am currently enrolled in HarvardX's Data Science Professional Certificate.
-I look forward to further developing my skill set and pursuing a career in the tech industry.
-
-I am currently enrolled in HarvardX's Data Science Professional Certificate.
 
 <!--
 **Cristina-Assuncao/Cristina-Assuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
